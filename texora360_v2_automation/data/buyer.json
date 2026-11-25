@@ -1,0 +1,86 @@
+{
+  "login": {
+    "email": "dev@texora360.local",
+    "password": "DevPassword123!"
+  },
+  "files": {
+    "image": "download.jpg",
+    "document": "Texora30_V2 Calculation.pdf"
+  },
+  "general": {
+    "name": "meem4",
+    "contactPerson": "01796775344",
+    "email": "meem4@gmail.com",
+    "phone": "2346544655",
+    "website": "texora360.com",
+    "group": "Retailer",
+    "country": "USA",
+    "region": "North America",
+    "address": "1600 Amphitheatre Parkway"
+  },
+  "compliance": {
+    "standard": "BSCI",
+    "brand": "texora",
+    "businessModel": "Private Label"
+  },
+  "business": {
+    "businessCategory": "Retailer",
+    "productCategory": "Shirts",
+    "annualTurnover": "20000",
+    "annualOrderQty": "200"
+  },
+  "bank": {
+    "bankName": "ucb",
+    "branch": "AB",
+    "accountHolder": "Maha",
+    "accountNumber": "2377686549008734",
+    "swift": "BOFAUS3N",
+    "currency": "USD",
+    "country": "USA",
+    "address": "Los Angeles, California"
+  },
+  "shipping": {
+    "port": "Dhaka ICD/Kamalapur",
+    "method": "Wire Transfer (TT)",
+    "tradeTerms": "FOB",
+    "currency": "USD"
+  },
+  "audit": {
+    "level": "Level II",
+    "authority": "SGS",
+    "insuranceCompany": "Allianz",
+    "insuranceLimit": "1000000",
+    "currency": "USD"
+  },
+  "payment": {
+    "creditDays": "100",
+    "paymentTerms": "Letter of Credit (LC)",
+    "commercialFinance": "344444",
+    "percent": "2",
+    "buyingHouse": "5",
+    "exportHouse": "2",
+    "sourcing": "6",
+    "fobValue": "22"
+  },
+  "sample": {
+    "type": "Fit Sample",
+    "qty": "2",
+    "auditName": "Saha",
+    "annualCost1": "20000000",
+    "vendorId": "12333",
+    "annualCost2": "200000"
+  },
+  "product": {
+    "department": "Womenswear",
+    "category1": "Shirts",
+    "type": "Crew Neck",
+    "sizeType": "Alpha",
+    "departmentName": "SDA",
+    "category": "Value Addition",
+    "subCategory": "23",
+    "item": "4",
+    "certificate": "texoranp",
+    "testRequirement": "Joy",
+    "nominatedSupplier": "Fahad"
+  }
+}

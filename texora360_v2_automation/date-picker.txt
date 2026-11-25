@@ -1,0 +1,236 @@
+- group "SUN MON TUE WED THU FRI SAT":
+  - button
+  - button
+  - button
+  - text: Buyer List Dashboard
+  - button "Buyer List"
+  - text: Add Buyer
+  - button "Save as Draft"
+  - button "Add Now"
+  - button
+  - button
+  - group:
+    - button "Dashboard"
+    - button "Procurement Dashboard"
+    - group "SALES & ORDER":
+      - button "Order Book"
+      - button "Order Projection"
+      - button "Capacity Board"
+      - button "T&A"
+    - group "COSTING & PRICING":
+      - button "Cost sheet"
+      - button "Requisition Sample"
+      - button "Price Approvals"
+      - button "Efficiency"
+    - group "PROCUREMENT & MATERIALS":
+      - button "Materials Booking"
+      - button "Mat. Inventory"
+    - group "COMMERCIAL MANAGEMENT":
+      - group "PI Management":
+        - img
+        - img
+      - group "PO Management":
+        - img
+        - img
+      - group "Payment Manager":
+        - img
+        - img
+    - button "PRODUCTION PLANNING Line Planning Board"
+    - group "REPORTS & ANALYTICS":
+      - group "Reports":
+        - img
+        - img
+      - button "Production File Prepare"
+    - group "SAP":
+      - button "SAP Data"
+      - button "Material Requests"
+    - group "BUYER MANAGEMENT":
+      - button "Buyer List"
+      - button "Factory List"
+      - button "Factory Configuration"
+  - text: Dev Admin
+  - group:
+    - text: Buyer Information
+    - group: Document Management
+    - text: "* Buyer Agreement"
+    - img
+    - text: download.jpg
+    - button "Select file... Texora30_V2 Calculation.pdf"
+    - text: Drag and drop files here Buyer Manual
+    - button "Choose File"
+    - button "Select file... Texora30_V2 Calculation.pdf"
+    - text: Buyer Name *
+    - textbox
+    - text: Contact Person Name *
+    - textbox
+    - text: Email *
+    - textbox
+    - text: Phone Number
+    - button "Show menu 🇺🇸 US"
+    - text: "*"
+    - textbox
+    - text: Testing Manual
+    - button "Select file... Texora30_V2 Calculation.pdf"
+    - text: Website * Buyer Group * Country * Region *
+    - group: Packaging Manual
+    - textbox
+    - button "Retailer"
+    - button "USA"
+    - button "North America"
+    - button "Select file... Texora30_V2 Calculation.pdf"
+    - text: Headquarters Address * Buyer certificate required * Brand * Label
+    - group: Compliance Manual
+    - textbox
+    - group:
+      - textbox
+    - text: Quality Manual
+    - button "Select file... Texora30_V2 Calculation.pdf"
+    - group:
+      - text: BSCI
+      - button
+      - text: Select required certificate
+    - group:
+      - text: Private Label
+      - button
+      - text: Select buyer label
+    - button "Select file... Texora30_V2 Calculation.pdf"
+    - text: Business Information *
+    - button
+    - text: "# Business Category * Product Category * Annual Business Turnover *"
+    - group: Annual Order Quantity
+    - text: "* Action 1"
+    - button "Retailer"
+    - button "Shirts"
+    - textbox
+    - textbox
+    - img
+    - text: Bank Information
+    - button
+    - text: "# Bank Name Branch Name Account Holder Name Account Number SWIFT Code Currency Action 1"
+    - textbox
+    - textbox
+    - textbox
+    - textbox
+    - textbox
+    - button "🇺🇸 USD"
+    - img
+    - text: Shipping Destination
+    - button
+    - text: "# Destination Country Address Port (Origin) Port (Destination) Action 1"
+    - button "USA"
+    - textbox
+    - button "Dhaka ICD/Kamalapur"
+    - button "Dhaka ICD/Kamalapur"
+    - img
+    - text: Payment Term Quality Configuration Payment Method Trade Terms Currency Inspection Level Inspection Authority Season
+    - button "Wire Transfer (TT)"
+    - button "FOB"
+    - button "🇺🇸 USD"
+    - button "Level II"
+    - button "SGS"
+    - button "Select season"
+    - text: Commercial Configuration *
+    - group: Insurance Checked By
+    - text: "* Insurance Limit * Currency *"
+    - group: Effective Date
+    - text: "*"
+    - button "Allianz"
+    - textbox "Enter insurance limit": "1000000"
+    - button "🇺🇸 USD"
+    - button "Select effective date"
+    - text: Expiry Date * Credit Days * Approval Document * Payment Terms * Commercial and Finance *
+    - button "Select expiry date"
+    - textbox "Enter credit days"
+    - button "Select file... Drop files here"
+    - button "Select payment terms"
+    - textbox "Enter commercial and finance"
+    - text: "% Business Commission % Commission % * Buying House Export House Buying / Sourcing FOB Value"
+    - textbox "Enter %"
+    - textbox "Enter buying house"
+    - textbox "Enter export house"
+    - textbox "Enter buying / sourcing"
+    - textbox "Enter FOB value"
+    - text: Sample Details
+    - button
+    - text: "# Sample Type Req Qty Action 1"
+    - button "Select type"
+    - textbox "Enter qty"
+    - img
+    - text: Total 0 Audit & Compliance List
+    - button
+    - text: "# Audit Name Expiry Date Annual Cost Action 1"
+    - textbox "Enter audit name"
+    - button
+    - textbox "Enter annual cost"
+    - img
+    - text: Vendor Information Vendor ID Expiry Date Annual Cost
+    - textbox "Enter vendor ID"
+    - button
+    - textbox "Enter annual cost"
+    - text: Size List
+    - button
+    - text: "# Department Product Category Product Type Size Type Action 1"
+    - button "Select department"
+    - button "Select category"
+    - button "Select type"
+    - button "Select size type"
+    - img
+    - text: Materials List
+    - button
+    - text: "# Department Item Category Sub Category Item Name Certificate Name Test Requirement Name Nominated Supplier Action 1"
+    - textbox "Enter department"
+    - button "Select category"
+    - textbox "Enter sub category"
+    - textbox "Enter item"
+    - textbox "Enter certificate name"
+    - textbox "Enter test requirement name"
+    - textbox "Enter nominated supplier"
+    - img
+  - text: ADMIN
+  - button "Logout"
+  - img
+  - button
+  - button "Nov 2026"
+  - button "01"
+  - button "02"
+  - button "03"
+  - button "04"
+  - button "05"
+  - button "06"
+  - button "07"
+  - button "08"
+  - button "09"
+  - button "10"
+  - button "11"
+  - button "12"
+  - button "13"
+  - button "14"
+  - button "15"
+  - button "16"
+  - button "17"
+  - button "18"
+  - button "19"
+  - button "20"
+  - button "21"
+  - button "22"
+  - button "23"
+  - button "24"
+  - button "25"
+  - button "26"
+  - button "27"
+  - button "28"
+  - button "29"
+  - button "30"
+  - button "01"
+  - button "02"
+  - button "03"
+  - button "04"
+  - button "05"
+  - button "06"
+  - button "07"
+  - button "08"
+  - button "09"
+  - button "10"
+  - button "11"
+  - button "12"
+  - button
